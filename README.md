@@ -1,2 +1,2 @@
 # hitdrop
-A small game from HTML, CSS and Javascript
+A small game based on HTML , Javascript and CSS. 
